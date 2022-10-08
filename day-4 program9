@@ -1,0 +1,28 @@
+Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 27 2018, 04:06:47) [MSC v.1914 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+== RESTART: C:/Users/sse/AppData/Local/Programs/Python/Python37-32/year.py ==
+ENTER THE MONTH: july,29
+ENTER THE DATE: 29
+Season is FALL
+>>> 
+== RESTART: C:/Users/sse/AppData/Local/Programs/Python/Python37-32/year.py ==
+ENTER THE MONTH: september
+ENTER THE DATE: 5
+Season is FALL
+>>> 
+== RESTART: C:/Users/sse/AppData/Local/Programs/Python/Python37-32/year.py ==
+ENTER THE MONTH: december
+ENTER THE DATE: 30
+Season is FALL
+>>> 
+== RESTART: C:/Users/sse/AppData/Local/Programs/Python/Python37-32/year.py ==
+ENTER THE MONTH: march
+ENTER THE DATE: 20
+Season is FALL
+>>> 
+== RESTART: C:/Users/sse/AppData/Local/Programs/Python/Python37-32/year.py ==
+ENTER THE MONTH: june
+ENTER THE DATE: 27
+Season is FALL
+>>> 
